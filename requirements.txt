@@ -1,3 +1,4 @@
-pprint36
 requests
+getpass3
+tqdm
 
