@@ -1,4 +1,3 @@
 requests
-getpass3
 tqdm
 
